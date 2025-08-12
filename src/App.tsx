@@ -9,7 +9,7 @@ const App = () => {
   }
 
   const questions: string[] = [
-    "What is the difference between var, let, and const?",
+    "What is the difference between var, let, and, const?",
     "What is JavaScript?",
     "What are the different data types in JavaScript?",
     "What is the difference between == and ===?",

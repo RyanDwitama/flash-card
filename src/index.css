@@ -2,7 +2,7 @@
 
 @layer base {
     button {
-        @apply hover:cursor-pointer px-3 py-2;
+        @apply px-3 py-2 hover:cursor-pointer;
     }
 }
 
